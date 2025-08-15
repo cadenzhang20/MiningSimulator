@@ -1,0 +1,63 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Game",
+      "request": "launch",
+      "mainClass": "Game",
+      "projectName": "20-Caden_51cbba1"
+    },
+    {
+      "type": "java",
+      "name": "Game",
+      "request": "launch",
+      "mainClass": "Game",
+      "projectName": "MiningSimulator_9d5159ce"
+    },
+    {
+      "type": "java",
+      "name": "Game",
+      "request": "launch",
+      "mainClass": "Game",
+      "projectName": "19-Caden_418d43d9"
+    },
+    {
+      "type": "java",
+      "name": "Game",
+      "request": "launch",
+      "mainClass": "Game",
+      "projectName": "19 - Evan new_8b68360b"
+    },
+    {
+      "type": "java",
+      "name": "Game",
+      "request": "launch",
+      "mainClass": "Game",
+      "projectName": "18 - Evan new_83fdd6cc"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Dodge",
+      "request": "launch",
+      "mainClass": "Dodge",
+      "projectName": "18-Evan 1_1ba0e908"
+    },
+    {
+      "type": "java",
+      "name": "Game",
+      "request": "launch",
+      "mainClass": "Game",
+      "projectName": "18-Evan 1_1ba0e908"
+    }
+  ]
+}

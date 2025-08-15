@@ -1,0 +1,48 @@
+{
+  // organizational snippets
+  "header comment": {
+    "prefix": ["header-comment"],
+    "body": [
+      "/*",
+      " * $TM_FILENAME",
+      " * by Evan, Caleb, and Caden",
+      " * ",
+      " * file started: $CURRENT_DAY_NAME, $CURRENT_MONTH_NAME $CURRENT_DATE, $CURRENT_YEAR",
+      " * file finished: Monday, January 20, 2025",
+      " * ",
+      " * ${1:about section}",
+      "/*/",
+      "$0"
+    ],
+    "description": "writting out the header comment"
+  },
+
+  "section header": {
+    "prefix": ["section"],
+    "body": [
+      "/* ************************************************************",
+      " * $0",
+      "/* ************************************************************ */"
+    ],
+    "description": "section header"
+  },
+
+  // print statements
+  "printf statement": {
+    "prefix": ["out-f"],
+    "body": ["System.out.printf(\"$0\");"],
+    "description": "printf shortcut"
+  },
+
+  "print statement": {
+    "prefix": ["out-without"],
+    "body": ["System.out.print($0);"],
+    "description": "print shortcut"
+  },
+
+  "println statement": {
+    "prefix": ["out-ln"],
+    "body": ["System.out.println($0);"],
+    "description": "println shortcut"
+  }
+}
