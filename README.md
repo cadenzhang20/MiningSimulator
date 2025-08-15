@@ -1,4 +1,4 @@
-# MiningSimulator
+# Mining Simulator
 
 ![image of introductino](src/screenshots/intro.png)
 
