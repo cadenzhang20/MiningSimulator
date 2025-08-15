@@ -9,6 +9,13 @@
       "name": "Game",
       "request": "launch",
       "mainClass": "Game",
+      "projectName": "MiningSimulator_d63d64f7"
+    },
+    {
+      "type": "java",
+      "name": "Game",
+      "request": "launch",
+      "mainClass": "Game",
       "projectName": "20-Caden_51cbba1"
     },
     {
